@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+input {
+  margin-left: 8px;
+  margin-right: 4px;
+}
+
+.results {
+  color: #07d;
+}
+
+td,
+th {
+  padding: 6px;
+}
+
+tbody td {
+  border-top: 1px solid #ddd;
+}
